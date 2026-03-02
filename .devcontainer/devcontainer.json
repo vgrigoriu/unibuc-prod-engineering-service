@@ -26,7 +26,10 @@
       ],
       "settings": {
         "java.import.gradle.java.home": "/usr/lib/jvm/msopenjdk-current",
-        "java.jdt.ls.java.home": "/usr/lib/jvm/msopenjdk-current"
+        "java.jdt.ls.java.home": "/usr/lib/jvm/msopenjdk-current",
+        "redhat.telemetry.enabled": false,
+        "telemetry.telemetryLevel": "off",
+        "makefile.configureOnOpen": false
       }
     }
   },
